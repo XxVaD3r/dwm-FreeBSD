@@ -1,2 +1,0 @@
-# dwm-FreeBSD
-# dwm-FreeBSD
